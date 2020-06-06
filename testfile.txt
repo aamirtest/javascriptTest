@@ -1,0 +1,53 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F8CC-075B
+
+ Directory of C:\Users\AIQBA\Desktop\TypeScriptDemo
+
+06.06.2020  17:09    <DIR>          .
+06.06.2020  17:09    <DIR>          ..
+26.04.2020  23:06               301 ArrowFunc.js
+26.04.2020  23:06               277 ArrowFunc.ts
+10.05.2020  13:51               749 classDemo.js
+10.05.2020  13:51               738 classDemo.ts
+13.04.2020  18:56               128 firstScript.js
+14.04.2020  20:21               135 firstScript.ts
+14.04.2020  20:46                 0 function1.ts
+10.05.2020  12:06               567 FunctionParam.js
+10.05.2020  12:06               588 FunctionParam.ts
+10.05.2020  13:30               515 functionts.js
+20.04.2020  13:22               531 ifCondition.js
+20.04.2020  13:18               523 ifCondition.ts
+10.05.2020  14:47             1ÿ204 Inheritence.js
+10.05.2020  14:47               440 Inheritence.ts
+10.05.2020  16:05               214 Interface.js
+10.05.2020  15:53               314 Interface.ts
+10.05.2020  16:05               356 Interface2.js
+10.05.2020  16:04               436 Interface2.ts
+21.04.2020  22:31               232 loop.js
+21.04.2020  22:31               216 loop.ts
+18.04.2020  13:11               479 Operators.js
+10.05.2020  16:23               530 Operators.ts
+14.04.2020  20:59               254 OptionalParamFun.js
+14.04.2020  20:58               275 OptionalParamFun.ts
+10.05.2020  13:23               143 overloadFun.js
+10.05.2020  13:26               241 overloadFun.ts
+10.05.2020  13:25               361 RestParam.js
+10.05.2020  13:24               251 RestParam.ts
+26.04.2020  14:39               506 singleArray.js
+26.04.2020  14:40               562 singleArray.ts
+18.04.2020  15:56               638 Strings.js
+18.04.2020  15:10               643 Strings.ts
+20.04.2020  13:37               521 switchCase.js
+20.04.2020  13:36               372 switchCase.ts
+20.04.2020  13:23                95 ternaryOperators.js
+20.04.2020  13:23               100 ternaryOperators.ts
+06.06.2020  17:09                 0 testfile.txt
+26.04.2020  15:48               459 TupleTS.js
+26.04.2020  15:48               489 TupleTS.ts
+26.04.2020  14:55               271 TwoDArray.js
+26.04.2020  14:55               288 TwoDArray.ts
+14.04.2020  19:36               293 variables.js
+14.04.2020  20:56               258 varVariableScope.js
+14.04.2020  20:56               223 varVariableScope.ts
+              44 File(s)         16ÿ716 bytes
+               2 Dir(s)  40ÿ184ÿ287ÿ232 bytes free
