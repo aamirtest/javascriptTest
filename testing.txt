@@ -1,0 +1,12 @@
+ArrowFunc.js	  Inheritence.js       overloadFun.js	    testfile.txt
+ArrowFunc.ts	  Inheritence.ts       overloadFun.ts	    testing.txt
+classDemo.js	  Interface.js	       RestParam.js	    TupleTS.js
+classDemo.ts	  Interface.ts	       RestParam.ts	    TupleTS.ts
+firstScript.js	  Interface2.js        singleArray.js	    TwoDArray.js
+firstScript.ts	  Interface2.ts        singleArray.ts	    TwoDArray.ts
+function1.ts	  loop.js	       Strings.js	    variables.js
+FunctionParam.js  loop.ts	       Strings.ts	    varVariableScope.js
+FunctionParam.ts  Operators.js	       switchCase.js	    varVariableScope.ts
+functionts.js	  Operators.ts	       switchCase.ts
+ifCondition.js	  OptionalParamFun.js  ternaryOperators.js
+ifCondition.ts	  OptionalParamFun.ts  ternaryOperators.ts
